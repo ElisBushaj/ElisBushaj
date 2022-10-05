@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elis Bushaj</h1>
-<h3 align="center">A Full Stack Developer from Albania🇱</h3>
+<h3 align="center">A Full Stack Developer from Albania</h3>
 <img
   align="right"
   alt="Coding"
