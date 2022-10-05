@@ -94,7 +94,7 @@
 
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.icon-icons.com/icons2/2148/PNG/512/expo_icon_132404.png"
+      src="https://static.expo.dev/static/brand/square-512x512.png"
       alt="reactnative"
       width="40"
       height="40"
