@@ -94,7 +94,7 @@
 
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://static.expo.dev/static/brand/square-512x512.png"
+      src="https://i.ibb.co/X3Z04Hn/expo.png"
       alt="reactnative"
       width="40"
       height="40"
@@ -145,7 +145,7 @@
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://i.ibb.co/nsgrbt2/Expressjs.png"
+      src="https://i.ibb.co/JyQJ0cN/Expressjs.png"
       alt="express"
       width="40"
       height="40"
