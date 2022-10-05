@@ -92,6 +92,15 @@
     />
   </a>
 
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/353722/expo.svg"
+      alt="reactnative"
+      width="40"
+      height="40"
+    />
+  </a>
+  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
