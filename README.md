@@ -145,7 +145,7 @@
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://i.ibb.co/nsgrbt2/Expressjs.png"
       alt="express"
       width="40"
       height="40"
