@@ -78,7 +78,7 @@
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
     <img
       src="https://sequelize.org/img/logo.svg"
-      alt="firebase"
+      alt="sequlize"
       width="40"
       height="40"
       />
@@ -159,6 +159,17 @@
       height="40"
     />
   </a>
+
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"
+      alt="JAVA"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+
 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img
