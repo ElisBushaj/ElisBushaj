@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elis Bushaj</h1>
-<h3 align="center">A Full Stack Developer from Albania :albania:</h3>
+<h3 align="center">Full Stack Developer && Web/App Reverse Engineer</h3>
 <img
   align="right"
   alt="Coding"
@@ -13,8 +13,11 @@
   />
 </p>
 
-- 👨‍💻 All of my projects are available at
-[https://elisbushaj.tech/](https://elisbushaj.tech/)
+- :alien: All of my projects are available at
+[elisbushaj.tech](https://elisbushaj.tech)
+
+- :lock: All of my APIs are available at
+  [rapidapi.com/user/elisbushaj2](https://rapidapi.com/user/elisbushaj2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
