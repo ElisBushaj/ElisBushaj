@@ -14,7 +14,7 @@
 </p>
 
 - :alien: All of my projects are available at
-[elisbushaj.netlify.app](https://netlify.app)
+[elisbushaj.netlify.app](https://elisbushaj.netlify.app)
 
 - :lock: All of my APIs are available at
   [rapidapi.com/user/elisbushaj2](https://rapidapi.com/user/elisbushaj2)
