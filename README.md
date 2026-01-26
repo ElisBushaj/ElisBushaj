@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elis Bushaj</h1>
-<h3 align="center">Full Stack Developer && Web/App Reverse Engineer</h3>
+<h3 align="center">Full Stack Engineer && Web/App Reverse Engineer</h3>
 <img
   align="right"
   alt="Coding"
