@@ -186,14 +186,6 @@
 
 <p>
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=elisbushaj&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-    alt="elisbushaj"
-  />
-</p>
-
-<p>
-  <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=elisbushaj&theme=tokyonight"
     alt="elisbushaj"
