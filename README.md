@@ -4,11 +4,10 @@
 
 ### Full-Stack Engineer · Web/App Reverse Engineer · API Builder
 
-*Shipping a catalog of **60+ scraping & data APIs** on RapidAPI and Apify Store — from travel and sports to social, finance, and e-commerce.*
+*Shipping a catalog of **60+ scraping & data APIs** on RapidAPI — from travel and sports to social, finance, and e-commerce.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-elisbushaj.netlify.app-0e75b6?style=for-the-badge&logo=netlify&logoColor=white)](https://elisbushaj.netlify.app)
 [![RapidAPI](https://img.shields.io/badge/RapidAPI-elisbushaj2-0055DA?style=for-the-badge&logo=rapid&logoColor=white)](https://rapidapi.com/user/elisbushaj2)
-[![Apify](https://img.shields.io/badge/Apify_Store-elisbushaj2-00B14F?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/elisbushaj2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elis%20Bushaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elis-bushaj-2964241a7)
 [![Email](https://img.shields.io/badge/Email-elisbushaj2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elisbushaj2@gmail.com)
 
@@ -24,30 +23,12 @@
 
 I'm a full-stack engineer who reverse-engineers web and mobile apps to design clean, reliable APIs around them, then ships them as **products**.
 
-- 🛰️ **60+ scraping APIs** live across **RapidAPI Hub** and **Apify Store**
+- 🛰️ **60+ scraping APIs** live on **RapidAPI Hub**
 - 🧩 Domains covered: travel, sports, real-estate, e-commerce, social media, finance, jobs, entertainment
 - 🛠️ Standardized stack: **Express 5 + TypeScript**, Vercel/edge deploys, anti-bot hardening
-- 🔁 Most APIs are **dual-published** — REST endpoints on RapidAPI, batch Actors on Apify
 - 🧪 Currently going deeper into **anti-bot evasion**, **fingerprinting**, and **scalable scraping infra**
 
----
-
-## 🌐 API Catalog Highlights
-
-A taste of what's in the catalog — the full set lives on [RapidAPI](https://rapidapi.com/user/elisbushaj2) and [Apify](https://apify.com/elisbushaj2).
-
-| Category | APIs |
-| --- | --- |
-| ✈️ **Travel & Hospitality** | Airbnb · Booking · Skyscanner · Kiwi · Flixbus · TripAdvisor · Trivago · OpenTable · TasteAtlas · VividSeats |
-| 🏟️ **Sports** | SofaScore · FotMob · ESPN · NBA · UFC · Formula 1 · Transfermarkt · Cricbuzz · EsportsEarnings |
-| 🛒 **E-commerce & Retail** | Amazon · eBay · Walmart · IKEA · StockX · GOAT |
-| 📱 **Social & Content** | TikTok · Instagram · X (Twitter) · LinkedIn · Reddit · Threads · Bluesky · Snapchat · Pinterest · Medium · Substack · Twitch · YouTube |
-| 💸 **Finance & Markets** | Yahoo Finance · Finviz · StockAnalysis · Polymarket · Levels.fyi |
-| 🎮 **Entertainment & Games** | SteamDB · HowLongToBeat · Goodreads · Genius · Setlist.fm · Consumet |
-| 🏠 **Real Estate & Cars** | Rightmove · AutoScout24 · Cars.com |
-| 🧰 **Misc / Utility** | Google Maps · Indeed · Trustpilot · Zero-GPT |
-
-> Need an API for a site that isn't here? [Reach out](mailto:elisbushaj2@gmail.com) — building new scrapers is most of what I do.
+> Need an API for a site that isn't on my catalog yet? [Reach out](mailto:elisbushaj2@gmail.com) — building new scrapers is most of what I do.
 
 ---
 
@@ -58,6 +39,7 @@ A taste of what's in the catalog — the full set lives on [RapidAPI](https://ra
 | **[Tubehive](https://github.com/ElisBushaj/tubehive)** | Search YouTube and download videos as MP3 — straight from a URL. | Vite · JavaScript |
 | **[Tikhive](https://github.com/ElisBushaj/tikhive)** | Paste a TikTok URL, get the watermark-free download. | React · JavaScript |
 | **[RapidAPI Catalog](https://rapidapi.com/user/elisbushaj2)** | 60+ production scraping & data APIs. | Node · TS · Express · Vercel |
+
 | **[Portfolio](https://elisbushaj.netlify.app)** | Personal portfolio, projects and contact. | React · Netlify |
 
 ---
@@ -99,7 +81,6 @@ A taste of what's in the catalog — the full set lives on [RapidAPI](https://ra
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Apify](https://img.shields.io/badge/Apify-00B14F?style=flat-square&logo=apify&logoColor=white)
 ![RapidAPI](https://img.shields.io/badge/RapidAPI-0055DA?style=flat-square&logo=rapid&logoColor=white)
 
 ---
