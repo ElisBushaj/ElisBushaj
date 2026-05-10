@@ -1,193 +1,96 @@
-<h1 align="center">Hi 👋, I'm Elis Bushaj</h1>
-<h3 align="center">Full Stack Engineer && Web/App Reverse Engineer</h3>
-<img
-  align="right"
-  alt="Coding"
-  width="400"
-  src="https://www.lambdatest.com/resources/images/news24.gif"
-/>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=elisbushaj&label=Profile%20views&color=0e75b6&style=flat"
-    alt="elisbushaj"
-  />
-</p>
+<div align="center">
 
-- :alien: All of my projects are available at
-[elisbushaj.netlify.app](https://elisbushaj.netlify.app)
+# Hi, I'm Elis Bushaj 👋
 
-- :lock: All of my APIs are available at
-  [rapidapi.com/user/elisbushaj2](https://rapidapi.com/user/elisbushaj2)
+### Full-Stack Engineer · Web/App Reverse Engineer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/elis-bushaj-2964241a7" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="elis-bushaj-2964241a7"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/elis.bushaj" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="elis.bushaj"
-      height="30"
-      width="40"
-  /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-elisbushaj.netlify.app-0e75b6?style=for-the-badge&logo=netlify&logoColor=white)](https://elisbushaj.netlify.app)
+[![RapidAPI](https://img.shields.io/badge/RapidAPI-elisbushaj2-0055DA?style=for-the-badge&logo=rapid&logoColor=white)](https://rapidapi.com/user/elisbushaj2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elis%20Bushaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elis-bushaj-2964241a7)
+[![Instagram](https://img.shields.io/badge/Instagram-@elis.bushaj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elis.bushaj)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
+![Profile views](https://komarev.com/ghpvc/?username=elisbushaj&label=Profile%20views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/ElisBushaj?label=Followers&style=flat-square&color=0e75b6)
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
+</div>
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://i.ibb.co/JyQJ0cN/Expressjs.png"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
+---
 
-  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://sequelize.org/img/logo.svg"
-      alt="sequlize"
-      width="40"
-      height="40"
-      />
-  </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
+## 🧠 About
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
-      alt="tailwindcss"
-      width="40"
-      height="40"
-    />
-  </a>
+- 🌍 Based in **Albania**
+- 💻 I build **full-stack web & mobile apps** and ship **scraping APIs** on RapidAPI
+- 🔐 I reverse-engineer web and mobile apps to design clean, reliable APIs around them
+- 🌱 Currently going deeper into **anti-bot evasion** and **scalable scraping infrastructure**
+- 🌐 Portfolio: **[elisbushaj.netlify.app](https://elisbushaj.netlify.app)**
 
-  
+---
 
-  
+## 🛠️ Tech Stack
 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
+**Languages**
 
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://i.ibb.co/X3Z04Hn/expo.png"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"
-      alt="JAVA"
-      width="40"
-      height="40"
-    />
-  </a>
-  
+**Frontend**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-      alt="selenium"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+**Backend**
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=elisbushaj&theme=tokyonight"
-    alt="elisbushaj"
-  />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+**Automation & Scraping**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![RapidAPI](https://img.shields.io/badge/RapidAPI-0055DA?style=flat-square&logo=rapid&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[Tubehive](https://github.com/ElisBushaj/tubehive)** | Search YouTube videos and download them as MP3 — directly from a URL. | Vite · JavaScript |
+| **[Tikhive](https://github.com/ElisBushaj/tikhive)** | Download TikTok videos by pasting the video URL. | React · JavaScript |
+| **[RapidAPI Catalog](https://rapidapi.com/user/elisbushaj2)** | A growing collection of scraping & utility APIs published on RapidAPI. | Node · TS · Express |
+| **[Portfolio](https://elisbushaj.netlify.app)** | Personal portfolio with projects, experiments, and contact. | React · Netlify |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Elis's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisbushaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisbushaj&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=elisbushaj&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+💬 Open to collaborations on **scraping APIs**, **full-stack apps**, and **mobile** work.
+
+</div>
