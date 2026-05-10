@@ -80,9 +80,6 @@
 
 <div align="center">
 
-![Elis's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisbushaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisbushaj&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=elisbushaj&theme=tokyonight&hide_border=true)
 
 </div>
